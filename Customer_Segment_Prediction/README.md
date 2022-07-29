@@ -1,4 +1,4 @@
-#Customer_Segmentation_Prediction
+Customer_Segmentation_Prediction
 
 Segementation of customers based on their buying behavior 
 
